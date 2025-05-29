@@ -16,8 +16,7 @@ nav{
 nav a:hover{
     background-color:#033640;
     color:#A8D1D3 ;
-    transition: background-color 0.75s ease;
-    height: 25;}
+    transition: background-color 0.75s ease; }
 nav a{
     color:#033640;
     padding: 10px;
